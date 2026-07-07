@@ -40,7 +40,7 @@ Perfect for operators looking to launch a complete betting platform with Sportsb
 ## 🎰 Casino
 
 - ✅ 1000+ Casino Games
-- ✅ 218+ Game Files
+- ✅ 218+ Pragmatic Game Files
 - ✅ Live Casino
 - ✅ Crash Games
 - ✅ Aviator Style Games
