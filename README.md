@@ -13,7 +13,7 @@
 
 # 🚀 Overview
 
-A professional Casino & Sportsbook platform built with a modern architecture.
+A professional Casino & Sportsbook platform built with a modern architecture. Goldsvet casino script.
 
 Perfect for operators looking to launch a complete betting platform with Sportsbook, Casino, Live Casino and Admin Panel.
 
@@ -145,16 +145,6 @@ https://1win.goldsvetscript.com/home
 
 ---
 
-# 📸 Screenshots
-
-```
-/screenshots
-```
-
-Upload your screenshots here.
-
----
-
 # 📞 Contact
 
 ## 💬 Telegram
@@ -219,11 +209,3 @@ Available for:
 # 👉 https://t.me/edwardgarciaa
 
 ---
-
-<div align="center">
-
-## ⭐ Don't forget to Star this repository!
-
-### Made with ❤️
-
-</div>
