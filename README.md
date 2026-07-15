@@ -13,15 +13,10 @@
 
 <img src="preview1.png" width="900"/>
 
-<br><br>
-
 <img src="preview2.png" width="900"/>
 
-<br><br>
 
 <img src="preview3.png" width="900"/>
-
-<br><br>
 
 <img src="preview4.png" width="900"/>
 
